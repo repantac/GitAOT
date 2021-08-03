@@ -4,3 +4,27 @@
     list-style: none;
     text-decoration: none;
 }
+
+.head {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: brown;
+    text-shadow: 0 5px 5px grey;
+    padding: 10px;
+}
+
+.headings {
+    font-family: 'Lato', sans-serif;
+    color:indianred;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 3em;
+}
+
+.text {
+    font-family: 'Roboto Mono', monospace;
+    color:black;
+    font-weight: bold;
+    text-shadow: 0 5px 5px 0 grey;
+    text-align: justify;
+}
