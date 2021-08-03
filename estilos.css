@@ -4,3 +4,31 @@
     list-style: none;
     text-decoration: none;
 }
+
+.head {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: brown;
+    text-shadow: 0 5px 5px grey;
+    padding: 20px;
+}
+
+.card-title {
+    font-family: 'Lato', sans-serif;
+    color:indianred;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.text {
+    font-family: 'Roboto Mono', monospace;
+    color:black;
+    text-align: justify;
+}
+
+.card-text {
+    color: white;
+    text-align: justify;
+    font-family: 'Roboto Mono', monospace;
+}
